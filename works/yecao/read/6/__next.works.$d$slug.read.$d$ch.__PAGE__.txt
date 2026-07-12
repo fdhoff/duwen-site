@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/0-02_a1c2w52b.js"],"default"]
+2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/31hfrj37ifz2t.js"],"default"]
 3:I[97367,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"yecao","workTitle":"野草","chapterIdx":6,"chapterTitles":["《野草》英文譯本序","《野草》題辭","影的告别","求乞者","我的失戀","復讎","復讎（其二）","希望","風筝","好的故事","過客","死火","失掉的好地獄","墓碣文","頹敗線的顫動","立論","死後","這樣的戰士","聰明人和儍子和奴才","臘葉","淡淡的血痕中","一覺"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/0-02_a1c2w52b.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wlkidn7F2A5-_jxrVlVVB"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"yecao","workTitle":"野草","chapterIdx":6,"chapterTitles":["《野草》英文譯本序","《野草》題辭","影的告别","求乞者","我的失戀","復讎","復讎（其二）","希望","風筝","好的故事","過客","死火","失掉的好地獄","墓碣文","頹敗線的顫動","立論","死後","這樣的戰士","聰明人和儍子和奴才","臘葉","淡淡的血痕中","一覺"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/31hfrj37ifz2t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vEf8k3Fdm7BvCMjnrsuKW"}
 5:null

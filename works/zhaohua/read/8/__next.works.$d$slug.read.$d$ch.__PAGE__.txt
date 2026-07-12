@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/0-02_a1c2w52b.js"],"default"]
+2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/31hfrj37ifz2t.js"],"default"]
 3:I[97367,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"zhaohua","workTitle":"朝花夕拾","chapterIdx":8,"chapterTitles":["小引","狗·貓·鼠","阿長與《山海經》","二十四孝圖","五猖會","無常","從百草園到三味書屋","瑣記","藤野先生","范愛農","後記"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/0-02_a1c2w52b.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wlkidn7F2A5-_jxrVlVVB"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"zhaohua","workTitle":"朝花夕拾","chapterIdx":8,"chapterTitles":["小引","狗·猫·鼠","阿長與《山海經》","二十四孝圖","五猖會","无常","從百草園到三味書屋","父亲的病","琐记","藤野先生","范愛農","後記"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/31hfrj37ifz2t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vEf8k3Fdm7BvCMjnrsuKW"}
 5:null
