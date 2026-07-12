@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/0-02_a1c2w52b.js"],"default"]
+3:I[97367,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"nahan","workTitle":"吶喊","chapterIdx":12,"chapterTitles":["自序","狂人日記","孔乙己","藥","明天","一件小事","頭髮的故事","風波","故鄉","阿Ｑ正傳","端午節","白光","兔和貓","鴨的喜劇","社戲"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/0-02_a1c2w52b.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wlkidn7F2A5-_jxrVlVVB"}
+5:null

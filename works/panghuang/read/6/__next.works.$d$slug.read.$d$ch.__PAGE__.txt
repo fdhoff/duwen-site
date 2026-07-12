@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[19841,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js","/duwen-site/_next/static/chunks/0-02_a1c2w52b.js"],"default"]
+3:I[97367,["/duwen-site/_next/static/chunks/3rdqn8rx95pw7.js","/duwen-site/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"panghuang","workTitle":"彷徨","chapterIdx":6,"chapterTitles":["祝福","在酒樓上","幸福的家庭","肥皂","長明燈","示衆","高老夫子","孤獨者","傷逝","弟兄","離婚"]}],[["$","script","script-0",{"src":"/duwen-site/_next/static/chunks/0-02_a1c2w52b.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wlkidn7F2A5-_jxrVlVVB"}
+5:null
